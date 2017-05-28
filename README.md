@@ -1,1 +1,1 @@
-# Codility-Practies
+# Codility-Practice
